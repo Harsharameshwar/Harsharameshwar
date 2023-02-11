@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm Harsha</h1>
 <h3 align="center">Full Stack Developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/karthikraju391" target="blank"><img src="https://img.shields.io/twitter/follow/karthikraju391?logo=twitter&style=for-the-badge" alt="karthikraju391" /></a> </p>
+ <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/roy-edri">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <h1>
+  Welcome To My Profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+</h1>
+</div>
+
+---
+
 
 - 🌱 I’m currently learning **react, nodejs**
 
@@ -10,10 +21,6 @@
 - 💬 Ask me about **HTML, CSS, Javascript, React**
 
 - 📫 How to reach me **harsharameshwar@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/harsha-c-r-601281217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="harshacr" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
