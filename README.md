@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **react, nodejs**
 
-- 👯 I’m looking to collaborate on **React frontend projects**
+- 👯 I’m looking to collaborate on **Full Stack Web projects**
 
 - 💬 Ask me about **HTML, CSS, Javascript, React**
 
