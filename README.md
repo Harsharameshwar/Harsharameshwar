@@ -14,7 +14,7 @@
 ---
 
 
-- 🌱 I’m currently learning **react, nodejs**
+- 🌱 I’m currently learning **IOT, Machine Learning**
 
 - 👯 I’m looking to collaborate on **Full Stack Web projects**
 
