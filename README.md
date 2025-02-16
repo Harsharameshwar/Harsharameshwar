@@ -29,7 +29,7 @@
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-c-r-601281217/)
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://appian.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Appian_Corporation_logo.svg" alt="Appian" width="100" height="40"/>
+<a href="https://appian.com/" target="_blank" rel="noreferrer"> <img src="https://appian.com/content/dam/appian-aem/de_de/logo-appian-white-rebrand.svg" alt="Appian" width="100" height="40"/>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
