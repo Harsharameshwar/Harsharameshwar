@@ -18,13 +18,11 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Web projects**
 
-- 💬 Ask me about **HTML, CSS, Javascript, React**
+- 💬 Ask me about **HTML, CSS, Javascript, React**, **Appian**, **Appian-RPA**
 
 - 📫 How to reach me **harsharameshwar@gmail.com**
  
 - 📈: intrested in the Stock market.
-
-- :computer: Intrested in the DevOps and Full Stack Web section.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-c-r-601281217/)
 
