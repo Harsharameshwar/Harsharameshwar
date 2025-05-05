@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsha</h1>
-<h3 align="center">Appian RPA Developer & Passionate Full Stack Developer from India</h3>
+<h3 align="center">Appian and RPA Developer & Passionate Full Stack Developer from India</h3>
 
  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/harsha-c-r-601281217/">
