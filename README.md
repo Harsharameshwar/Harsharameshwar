@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Web projects**
 
-- 💬 Ask me about **HTML, CSS, Javascript, React**, **Appian**, **Appian-RPA**
+- 💬 Ask me about **Nest js, PWA, Typescript, React**, **Appian**, **Appian-RPA**
 
 - 📫 How to reach me **harsharameshwar@gmail.com**
  
